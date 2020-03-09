@@ -8,3 +8,4 @@ zmena
 jahodova zmena
 fruits added
 extra added
+plugins added
