@@ -9,3 +9,5 @@ jahodova zmena
 fruits added
 extra added
 plugins added
+
+fixed 1, 2
