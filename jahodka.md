@@ -1,4 +1,5 @@
 opat nieco  
+----------
 este **jedna** zmena :/  
 ... fggf
 sdfadsfasdfafa
@@ -7,4 +8,7 @@ este **jedna** zmena :/
 ... 
 lol
 co povedat?
+===========
 este nieco
+
+footer
