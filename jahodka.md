@@ -7,10 +7,13 @@ sdfadsfasdfafa
 zasa nieco (a stale to iste) 
 este **jedna** zmena :/  
  
-lol
+loooool
 co povedat?
 ===========
-este nieco
+#este nieco
 
 footer
 ------
+
+nevereding
+
