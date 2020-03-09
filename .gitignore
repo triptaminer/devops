@@ -1,0 +1,6 @@
+*.exe
+*.bin
+tmp
+output
+./dir/mydir
+*temporary.*
