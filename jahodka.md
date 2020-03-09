@@ -4,3 +4,5 @@ este **jedna** zmena :/
 lol
 
 co povedat?
+
+este nieco
