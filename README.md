@@ -10,4 +10,4 @@ fruits added
 extra added
 plugins added
 
-fixed 1, 2
+[*] fixed 1, 2
