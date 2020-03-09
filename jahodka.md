@@ -1,4 +1,5 @@
-zasa nieco  
+opat nieco  
 este **jedna** zmena :/  
-... 
-lol
+... fggf
+
+sdfadsfasdfafa
