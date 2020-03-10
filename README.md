@@ -12,3 +12,4 @@ plugins added
 
 [*] fixed 1, 2
 added cars
+issue 6 closed
