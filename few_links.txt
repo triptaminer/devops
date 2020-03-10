@@ -1,0 +1,7 @@
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+https://www.client9.com/git-tagging-cheatsheet/
+
+https://github.com/CDE-services/TSystemsDevops2020
+
+www.cde.sk/miska
